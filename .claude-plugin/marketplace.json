@@ -1,0 +1,23 @@
+{
+  "name": "bizmoon",
+  "owner": { "name": "Bizmoon", "email": "hello@bizmoon.ai", "url": "https://bizmoon.ai" },
+  "description": "US federal and state regulatory change and funding data for AI agents.",
+  "version": "1.0.0",
+  "metadata": { "pluginRoot": "./plugins" },
+  "plugins": [
+    {
+      "name": "bizmoon",
+      "displayName": "Bizmoon Regulatory Intelligence",
+      "description": "Search live US federal and state regulatory changes and grant programs with citations. Free tier, no account needed.",
+      "source": "./plugins/bizmoon",
+      "version": "1.0.0",
+      "author": { "name": "Bizmoon", "email": "hello@bizmoon.ai" },
+      "homepage": "https://bizmoon.ai/mcp",
+      "repository": "https://github.com/uofuonye/bizmoon-plugins",
+      "license": "MIT",
+      "category": "data",
+      "tags": ["regulatory", "compliance", "grants", "government", "legal"],
+      "keywords": ["regulation", "compliance", "federal register", "state register", "grants", "funding", "policy"]
+    }
+  ]
+}

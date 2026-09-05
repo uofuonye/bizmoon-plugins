@@ -1,0 +1,12 @@
+{
+  "name": "bizmoon",
+  "displayName": "Bizmoon Regulatory Intelligence",
+  "version": "1.0.0",
+  "description": "Search live US federal and state regulatory changes and grant programs with citations.",
+  "author": { "name": "Bizmoon", "email": "hello@bizmoon.ai", "url": "https://bizmoon.ai" },
+  "homepage": "https://bizmoon.ai/mcp",
+  "repository": "https://github.com/uofuonye/bizmoon-plugins",
+  "license": "MIT",
+  "keywords": ["regulation", "compliance", "grants", "government"],
+  "mcpServers": "./.mcp.json"
+}

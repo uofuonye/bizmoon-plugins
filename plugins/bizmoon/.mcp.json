@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bizmoon": {
+      "type": "http",
+      "url": "https://bizmoon.ai/api/mcp",
+      "headers": { "Authorization": "Bearer ${BIZMOON_API_KEY:-}" }
+    }
+  }
+}
